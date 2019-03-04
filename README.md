@@ -3,7 +3,7 @@ This project has intended to implemented the radiometric calibration algorithms 
 * 1. Paul E. Debevec, Jitendra Malik, Recovering High Dynamic Range Radiance Maps from Photographs, SIGGRAPH 1997
 * 2. Tomoo Mitsunaga, Shree Nayar, Radiometric Self Calibration, CVPR 1999
 
-Looking for dataset and help to implement this following papers:
+Looking for dataset and help to implement the following papers:
 
 * T. T. Ng, S. F. Chang, and M. P. Tsui. Using geometry invariants for camera response function estimation. CVPR 2007
 * Boxin Shi 1∗ Yasuyuki Matsushita 2 Yichen Wei 2 Chao Xu 1 Ping Tan, Self-calibrating Photometric Stereo, CVPR 2010
