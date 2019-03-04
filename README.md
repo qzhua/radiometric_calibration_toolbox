@@ -1,5 +1,5 @@
-# radiometric_calibration_toolbox
-This project has implemented the radiometric calibration algorithms of the following papers:
+# The Radiometric Calibration Toolbox
+This project has intended to implemented the radiometric calibration algorithms of the following papers:
 * 1. Paul E. Debevec, Jitendra Malik, Recovering High Dynamic Range Radiance Maps from Photographs, SIGGRAPH 1997
 * 2. Tomoo Mitsunaga, Shree Nayar, Radiometric Self Calibration, CVPR 1999
 
